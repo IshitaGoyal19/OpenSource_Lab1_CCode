@@ -1,1 +1,2 @@
 # OpenSource_Lab1_CCode
+Write a C program that creates a txt file called planets.txt and contains the listed planets and planet size (radius Km). The program should scan the data in the file and complete the following tasks: - - Print all the data onto the screen. - Find the largest planet and print onto the screen. - Prompt the user for a letter and print all planet details that begin with that letter onto the screen. 
